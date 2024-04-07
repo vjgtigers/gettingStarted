@@ -16,7 +16,7 @@ A collection of links that I think will be helpful <br>
 2. [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 # Miscellaneous
-## [Conventional Commits Standard](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+## [Conventional Commits Standard](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## [Git](https://git-scm.com/doc)
 1. [Common Commands](https://git-scm.com/docs)
