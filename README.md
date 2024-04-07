@@ -2,7 +2,7 @@
 A collection of links that I think will be helpful <br>
 [md cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
-
+# Languages
 
 ## C++
 1. [Documentation](https://en.cppreference.com/)
@@ -22,6 +22,8 @@ A collection of links that I think will be helpful <br>
 1. [Documentation](https://doc.rust-lang.org/beta/std/index.html)
 2. [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 3. [The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+# Miscellaneous
 
 ## SIMD
 1. [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf)
