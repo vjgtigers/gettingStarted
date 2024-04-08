@@ -8,6 +8,10 @@ A collection of links that I think will be helpful <br>
 1. [CppEssentials](http://www.pragsoft.com/books/CppEssentials.pdf)
 2. [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf)
 
+## [MySQL](https://dev.mysql.com/doc/)
+1. [W3Schools](https://www.w3schools.com/MySQL/default.asp)
+2. [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
 ## [PHP](https://www.php.net/docs.php)
 1. [PHP Manual](https://www.php.net/manual/en/index.php)
 
