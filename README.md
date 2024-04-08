@@ -8,6 +8,9 @@ A collection of links that I think will be helpful <br>
 1. [CppEssentials](http://www.pragsoft.com/books/CppEssentials.pdf)
 2. [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf)
 
+## [PHP](https://www.php.net/docs.php)
+1. [PHP Manual](https://www.php.net/manual/en/index.php)
+
 ## [Python](https://docs.python.org/3/)
 1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 
