@@ -12,6 +12,11 @@ A collection of links that I think will be helpful <br>
 1. [W3Schools](https://www.w3schools.com/MySQL/default.asp)
 2. [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+## [Go](https://go.dev/doc/)
+1. [Go by Example](https://gobyexample.com/)
+2. [A Tour of Go](https://go.dev/tour/welcome/1)
+3. [Get Started](https://go.dev/learn/)
+
 ## [PHP](https://www.php.net/docs.php)
 1. [PHP Manual](https://www.php.net/manual/en/index.php)
 
