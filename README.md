@@ -17,12 +17,20 @@ A collection of links that I think will be helpful <br>
 
 ## [Python](https://docs.python.org/3/)
 1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+2. [Python eBook](https://riptutorial.com/ebook/python)
 
 ## [Rust](https://doc.rust-lang.org/beta/std/index.html)
 1. [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 2. [The Rust Programming Language](https://doc.rust-lang.org/book/)
+3. [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+4. [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
 # Miscellaneous
+## AI
+1. [fast.ai](https://course.fast.ai/) : Deep learning course
+
+## Algorithms
+1. [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) : (requires free signup)
 ## [Conventional Commits Standard](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## [Git](https://git-scm.com/doc)
