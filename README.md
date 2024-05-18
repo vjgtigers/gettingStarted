@@ -55,3 +55,10 @@ A collection of links that I think will be helpful <br>
 
 ## Machine Learning
 1. [Mathematics of Neural Networks](https://mathematical-tours.github.io/book-basics-sources/neural-networks-en/NeuralNetworksEN.pdf)
+2. [machine learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
+3. [Neural Networks from Scratch in Python](https://nnfs.io/) : (paid book)
+
+### Mathematics of Neural Networks
+1. [Deep Learning: An Introduction for Applied Mathematicians](https://arxiv.org/pdf/1801.05894)
+2. [Artificial Neural Networks: their Training Process and Applications](https://www.whitman.edu/documents/Academics/Mathematics/2019/Lou-Hundley.pdf)
+3. [A Beginner's Guide to the Mathematics of Neural Networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
