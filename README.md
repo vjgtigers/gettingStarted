@@ -48,6 +48,7 @@ A collection of links that I think will be helpful <br>
 ## Code Online
 ### [Replit](https://replit.com/~)
 1. supports a wide variety of languages
+2. POTENTIALLY LESS USEFULL NOW AFTER RECENT CHANGES
 ### Language Specific
 1. C++ [[programiz]](https://www.programiz.com/cpp-programming/online-compiler/) [[onlinegdb]](https://www.onlinegdb.com/online_c++_compiler) [[C++ Shell]](https://cpp.sh/)
 2. Python [[programiz]](https://www.programiz.com/python-programming/online-compiler/) [[online-python]](https://www.online-python.com/)
